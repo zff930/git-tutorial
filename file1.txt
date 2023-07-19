@@ -1,2 +1,2 @@
 more content in file1
-new content in main
+conflict content
