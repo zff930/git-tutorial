@@ -1,2 +1,3 @@
 more content in file1
+conflict content
 new content for gitHub
